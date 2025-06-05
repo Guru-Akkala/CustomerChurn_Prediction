@@ -85,11 +85,5 @@ Gradient Boosted Trees performed best overall and were recommended for deploymen
   - Pandas / Seaborn / Matplotlib
 
 
-## Contributions
-
-Developed and maintained by:
-- Namratha Nagathihalli Anantha – Modeling & Implementation  
-- Gahana Nagaraja – Data Collection & Processing  
-- Niharika Mysore Prakasha – Evaluation & Reporting
 
 
